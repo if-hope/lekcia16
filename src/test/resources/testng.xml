@@ -3,8 +3,8 @@
 
     <test name="ShapesTest">
         <classes>
-            <class name="shapes.TriangleTest"/>
-            <class name="shapes.RectangleTest"/>
+            <class name="shapestests.TriangleTest"/>
+            <class name="shapestests.RectangleTest"/>
         </classes>
 
     </test>
